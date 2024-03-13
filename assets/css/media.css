@@ -1,0 +1,201 @@
+@media (min-width: 1281px) {
+    .tab-labels {
+        font-size: 18px !important;
+    }
+    .tab-labels-tab2 {
+        font-size: 14px !important;
+    }
+    .progress_plan .title .name {
+        font-size: 16px;
+    }
+    .progress_plan .title .arrow {
+        font-size: 11px;
+    }
+
+    .progress_plan .title .arrow .dateValue {
+        font-size: 13px;
+    }
+    .accordion-item.inverted .accordion-item-body-content .order_status,
+    .accordion-item.inverted .accordion-item-body-content .order_on_date {
+        font-size: 11px;
+    }
+    .choosebrands .progressbar label.noabs {
+        font-size: 13px;
+    }
+    /* .progress_plan .grouped .progressbar .progressbar_ratio .ratio_wrapper .ratio {} */
+    .choosebrands .menu_header .label {
+        font-size: 16px;
+    }
+    .checkout_item_container .checkout_item_details.inverted .item_data_wrapper_row .item_data {
+        font-size: 13px;
+    }
+    .checkoutpage .menu_header .label {
+        font-size: 16px;
+    }
+    .checkoutpage .accordion-item-header { 
+        font-size: 13px;
+    }
+    .checkout_item_container .checkout_item_details .item_data_wrapper_row.title .item_data {
+        font-size: 11px;
+    }
+    .checkout_item_container .checkout_item_name .item_name_text {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 801px) and (max-width: 1280px) {
+    .tab-labels {
+        font-size: 16px !important;
+    }
+    .progress_plan .title .name {
+        font-size: 15px;
+    }
+    .progress_plan .title .arrow {
+        font-size: 10px;
+    }
+
+    .progress_plan .title .arrow .dateValue {
+        font-size: 12px;
+    }
+    .accordion-item.inverted .accordion-item-body-content .order_status,
+    .accordion-item.inverted .accordion-item-body-content .order_on_date {
+        font-size: 10px;
+    }
+    .accordion-item.inverted .accordion-item-header.account_detail,
+    .accordion-item.inverted .date-picker-value input {
+        font-size: 12px;
+    }
+    .choosebrands .progressbar label.noabs {
+        font-size: 12px;
+    }
+    .choosebrands .progressbar label.quantity_value {
+        font-size: 11px;
+    }
+    .choosebrands .sub_detail span.bold.highlight {
+        font-size: 10px;
+    }
+    .choosebrands .menu_header .label {
+        font-size: 15px;
+    }
+    .sub-block {
+        font-size: 10px;
+    }
+    .progressbar .detail_bar .progress_header_label.right {
+        font: 11px;
+    }
+    .progressbar .detail_bar .progress_footer_label {
+        font-size: 11px;
+    }
+    .accordion-item-header {
+        font-size: 13px;
+    }
+    .accordion-item-body input.dateSelectPicker {
+        font-size: 13px;
+    }
+    .accordian.table .info_row {
+        font-size: 12px;
+    }
+    .accordion-item.inverted .accordion-item-body-content .item_data_wrapper_row.title .item_data {
+        font-size: 10px;
+    }
+    .accordion-item.inverted .accordion-item-body-content .title {
+        font-size: 11px;
+    }
+    .checkout_item_container .checkout_item_details.inverted .item_data_wrapper_row .item_data {
+        font-size: 12px;
+    }
+    .checkoutpage .accordion-item-header { 
+        font-size: 13px;
+    }
+    .checkout_item_container .checkout_item_details .item_data_wrapper_row.title .item_data {
+        font-size: 10px;
+    }
+    .checkout_item_container .checkout_item_details .item_data_wrapper_row .item_data {
+        font-size: 12px;
+    }
+    .checkout_item_container .checkout_item_name .item_name_text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 800px) {
+    .tab-labels {
+    }
+    .progress_plan .title .arrow {
+        font-size: 9px;
+    }
+
+    .progress_plan .title .arrow .dateValue {
+        font-size: 11px;
+    }
+    .header .header_icon_wrapper .header_bar .profile_section .email,
+    .header .header_icon_wrapper .header_bar .profile_section .name {
+        font-size: 12px;
+    }
+    .tabs [class^="tab"] label, .tabs [class*=" tab"] .progressbar label {
+        font-size: 10px;
+    }
+
+    .accordion-item.inverted .accordion-item-body-content .order_status,
+    .accordion-item.inverted .accordion-item-body-content .order_on_date {
+        font-size: 9px;
+    }
+    .accordion-item.inverted .accordion-item-header.account_detail,
+    .accordion-item.inverted .date-picker-value input {
+        font-size: 11px;
+    }
+    .choosebrands .progressbar label.noabs {
+        font-size: 10px;
+    }
+    .choosebrands .progressbar label.quantity_value {
+        font-size: 9px;
+    }
+    .choosebrands .sub_detail span.bold.highlight {
+        font-size: 8px;
+    }
+    .choosebrands .menu_header .label {
+        font-size: 14px;
+    }
+    .sub-block {
+        font-size: 9px;
+    }
+    .progressbar .detail_bar .progress_header_label.right {
+        font-size: 10px;
+    }
+    .progressbar .detail_bar .progress_footer_label {
+        font-size: 10px;
+    }
+    .accordion-item-header {
+        font-size: 12px;
+    }
+    .accordion-item-body input.dateSelectPicker {
+        font-size: 12px;
+    }
+    .accordian.table .info_row {
+        font-size: 11px;
+    }
+    .accordion-item.inverted .accordion-item-body-content .item_data_wrapper_row.title .item_data {
+        font-size: 9px;
+    }
+    .accordion-item.inverted .accordion-item-body-content .title {
+        font-size: 10px;
+    }
+    .checkout_item_container .checkout_item_details.inverted .item_data_wrapper_row .item_data {
+        font-size: 11px;
+    }
+    .checkoutpage .menu_header .label {
+        font-size: 14px;
+    }
+    .checkoutpage .accordion-item-header { 
+        font-size: 13px;
+    }
+    .checkout_item_container .checkout_item_details .item_data_wrapper_row.title .item_data {
+        font-size: 10px;
+    }
+    .checkout_item_container .checkout_item_details .item_data_wrapper_row .item_data {
+        font-size: 11px;
+    }
+    .checkout_item_container .checkout_item_name .item_name_text {
+        font-size: 12px;
+    }
+}
