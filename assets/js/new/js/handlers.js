@@ -512,11 +512,10 @@ function showBrandLevelDetails(data, currentSku, requestType, requestSku) {
                 <div class="brand_level_progress">${loadProgressCards({ "brands": filteredBrand }, true, true)}</div>
                 <div class="reward_snackbar"></div>
             </div>
-            <div class="new_orders"></div>
-
             <div class="place_order addanotheraccount">
                 <button class="btn outline" id="addanotheraccount" data=${encodeURIComponent(JSON.stringify(data))}>${locale["buttons"]["addAnotherAccount"]}</button>
             </div>
+            <div class="new_orders"></div>
             <div id="previous-orders-accordion">
             </div>
         </div> 
@@ -1314,7 +1313,7 @@ function addnewOrderBrand(data, currentSku, skulevel) {
                     </div>
                 </div>
                 <div class="accordion-item-body parent opened orderbrandselection">
-                    <div class="accordion-item-body-content" style="max-height: 270px; overflow-y: auto;">
+                    <div class="accordion-item-body-content">
                         <div class="date-picker-value" id="dpicker-${data["_id"]}" _id=${data["_id"]} style="margin-top: -6px;">
                             ${showDatePicker(`dpicker-${data["_id"]}`)}
                         </div>
