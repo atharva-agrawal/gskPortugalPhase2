@@ -42,7 +42,7 @@
     font-weight: 400;
 }
 
-@media (max-width: 1281px) {
+@media (max-width: 514px) {
     .legal_tnc .legal_tnc_body {
         font-size: 8px;
     }
@@ -51,7 +51,7 @@
     }
 }
 
-@media (min-width: 801px) and (max-width: 1280px) {
+@media (min-width: 321px) and (max-width: 513px) {
     .legal_tnc .legal_tnc_body {
         font-size: 7px;
     }
@@ -60,7 +60,7 @@
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 320px) {
     .legal_tnc .legal_tnc_body {
         font-size: 5px;
     }
